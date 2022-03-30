@@ -1,0 +1,5 @@
+HarryPotter,Jk Rowling,30,2
+The Silent Patient,Alex Michaelides,10,1.5
+Programming with Python,John Smith,20,3
+Pride and Prejudice,Jane Austen,10,3
+Introduction to Java,Y. Daniel Lianf,20,3
